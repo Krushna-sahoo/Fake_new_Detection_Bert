@@ -1,1 +1,3 @@
-# Fake_new_Detection_Bert
+# Fake News Detection Model using BERT Transformer
+
+This repository contains a Fake News Detection Model implemented using the BERT Transformer. The model classifies news articles as real or fake based on their content. To use the model, clone the repository and install dependencies. The model is trained on a labeled dataset and fine-tuned on BERT architecture. Evaluation metrics such as accuracy, precision, recall, and F1-score are used to assess model performance. Future work includes incorporating additional features and deploying the model for real-time detection. Contributions are welcome under the MIT License.
